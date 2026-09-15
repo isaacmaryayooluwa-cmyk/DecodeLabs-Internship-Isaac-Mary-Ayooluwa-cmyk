@@ -32,7 +32,7 @@ The following cleaning operations were performed using Power Query:
 ### Messy Dataset
 Initial raw dataset before cleaning and transformation.
 
-![Messy Dataset](Week-1-Data-Cleaning/messy_dataset.png)
+![Messy Dataset](Week-1-Data-Cleaning/messy_dataset.png.png)
 
 ### Power Query Techniques Used
 * Remove Duplicates • Replace Values • Change Data Types • Additional Columns • Filtering and Sorting • Data Transformation
@@ -42,14 +42,14 @@ Initial raw dataset before cleaning and transformation.
 ### Power Query Transformation Steps
 Power Query was used to clean, transform, and standardize the dataset.
 
-![Power Query Steps](Week-1-Data-Cleaning/power_query_steps.png)
+![Power Query Steps](Week-1-Data-Cleaning/power_query_steps.png.png)
 
 ---
 
 ### Cleaned Dataset
 Dataset after cleaning and preparation using Power Query.
 
-![Cleaned Dataset](Week-1-Data-Cleaning/cleaned_dataset.png)
+![Cleaned Dataset](Week-1-Data-Cleaning/cleaned_dataset.png.png)
 
 ### Challenges Faced
 * Missing values • Duplicate records • Inconsistent formatting • Incorrect data types
