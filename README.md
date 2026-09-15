@@ -96,7 +96,7 @@ Summary statistics used to understand the dataset distribution.
 | **Min ( Lowest Price )** | $11.39 |
 | **Max ( Highest Price )** | $699.93 |
 
-![Basic Descriptive Statistics](Week-2-Data-Analysis/descriptive_analysis.png.png)
+![Basic Descriptive Statistics](Week-2-Exploratory-Data-Analysis/descriptive_analysis.png.png)
 
 ---
 
@@ -104,7 +104,7 @@ Summary statistics used to understand the dataset distribution.
 
 Pivot tables used to summarize and analyze trends.
 
-![Pivot Table Analysis](Week-2-Data-Analysis/pivot_tables.png.png)
+![Pivot Table Analysis](Week-2-Exploratory-Data-Analysis/pivot_tables.png.png)
 
 ---
 
@@ -120,8 +120,7 @@ Quartile calculations used to identify data distribution and outliers.
 | **Lower Bound** | -1341.41 |
 | **Upper Bound** | 3330.41 |
 
-![Quartile Analysis](Week-2-Data-Analysis/outlier_analysis.png.png)
-
+![Quartile Analysis](Week-2-Exploratory-Data-Analysis/outlier_analysis.png.png)
 ---
 
 ## Key Insights
