@@ -161,7 +161,7 @@ The following cleaning tasks were performed:
 
 ### Full Table Displayed
 
-![Full Table Displayed](Top_10_table.png.png)
+![Full Table Displayed](Week-3-SQL/Top_10_table.png.png)
 
 ## SQL Skills and Techniques Applied
 
@@ -180,7 +180,7 @@ The project demonstrated practical use of SQL concepts and analytical functions,
 
 `WHERE` clause used to filter records
 
-![Filtering Records]((Week-3-SQL/Filtering_records.png.png)
+![Filtering Records](Week-3-SQL/Filtering_records.png.png)
 
 ## GROUP BY Clause
 
@@ -198,7 +198,7 @@ Analyzed queries with HAVING
 
 `ORDER BY` used to sort records
 
-![Sorting Records](Week-3-SQL/Order_clause.png.png)
+![Sorting Records; ORDER Clause](Week-3-SQL/Order_clause.png.png)
 
 ## Overall Metrics Performance
 
