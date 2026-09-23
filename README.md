@@ -157,10 +157,6 @@ The following cleaning tasks were performed:
 
 ### Top 10 Table Displayed
 
-![Full Table Displayed](## Table Created
-
-### Full Table Displayed
-
 ![Full Table Displayed](Week-3-SQL/Top_10_table.png.png)
 
 ## SQL Skills and Techniques Applied
@@ -192,7 +188,7 @@ Product grouped by Order Id, Quantity, Unit Price, Total Price
 
 Analyzed queries with HAVING
 
-![HAVING Clause]((Week-3-SQL//Having_clause.png.png)
+![HAVING Clause](Week-3-SQL/Having_clause.png.png)
 
 ## Sorting Records; ORDER Clause
 
