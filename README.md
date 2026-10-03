@@ -288,7 +288,7 @@ This dashboard provides a high-level view of overall business performance.
 
 ## Dashboard Screenshot
 
-![Sales Performance Overview](Week-4-Data-Visualization/Sales Performance image.png)
+![Sales Performance Overview](Week-4-Data-Visualization/Sales Performance Image.png)
 
 ### Key Findings
 1. Revenue peaked in June ($171K) before dropping 60% by September ($69K) indicating clear seasonal patterns.
@@ -301,7 +301,7 @@ This dashboard analyzes revenue and physical volume distribution across product 
 
 ## Dashboard Screenshot
 
-![Product Performance Overview](Week-4-Data-Visualization/Product Performance image.png)
+![Product Performance Overview](Week-4-Data-Visualization/Product Performance Image.png)
 
 ### Key Findings
 1. Chairs ($196K) and Printers ($196K) lead in revenue; Phones earned the lowest ($152K).   
@@ -314,7 +314,7 @@ This dashboard evaluates customer checkout preferences, payment basket sizes, an
 
 ## Dashboard Screenshot
 
-![Order & Payment Performance Overview](Week-4-Data-Visualization/Order & Payment Performance image.png)
+![Order & Payment Performance Overview](Week-4-Data-Visualization/Order & Payment Performance Image.png)
 
 ### Key Findings
 • Online payments were the most preferred payment method with 258 total orders. 
