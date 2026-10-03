@@ -242,3 +242,161 @@ The analysis provided visibility into:
 Overall, the project strengthened foundational SQL skills and showcased the ability to transform raw data into meaningful business intelligence suitable for reporting and decision-making.
 
 
+## Project 4: Power BI Data Visualization
+## Project Overview
+The primary objective of this project was to transform raw retail sales data into actionable business intelligence through data cleaning, DAX measure creation, and interactive dashboard reporting.
+
+The final solution consists of multiple interactive dashboards that provide a comprehensive view of the business through KPIs, sales trends, product analysis, and order management metrics.
+
+
+### Project Objectives
+•	Clean and prepare retail transaction data
+•	Create DAX measures and KPIs
+•	Develop interactive dashboards for decision-making
+•	Identify trends, opportunities, and operational challenges
+•	Communicate insights through data storytelling
+
+### Tools Used
+1. Power BI
+2. Power Query
+3. DAX
+4. Microsoft Excel (Dataset Source)
+5. PowerPoint for Dashboard background
+
+### Data Cleaning and Preparation
+Data preparation was performed in Power Query and included:
+•	Correcting data types
+•	Handling missing values in the Coupon Code column
+•	Replacing blank coupon values with "No Coupon Used"
+•	Removing duplicate records
+•	Validating revenue calculation
+
+### DAX Measures Created
+Total Revenue
+Total Orders  
+Total Quantity
+Delivered Orders
+Total Order Value
+Unit Sold 
+Average Unit Price
+Total Order Value
+Average Order Value (AOV)
+
+## Dashboard 1: Sales Performance Overview
+
+This dashboard provides a high-level view of overall business performance.
+
+## Dashboard Screenshot
+
+![Sales Performance Overview](Week-4-Data-Visualization/Sales Performance image.png)
+
+### Key Findings
+1. Revenue peaked in June ($171K) before dropping 60% by September ($69K) indicating clear seasonal patterns.
+2. Completed deliveries accounted for 19.25% (231 orders) of total orders.
+3. Cancelled orders (250 orders / 20.83%) slightly exceeded delivered orders, highlighting operational fulfilment bottlenecks.
+
+## Dashboard 2: Product Performance Overview
+
+This dashboard analyzes revenue and physical volume distribution across product categories.
+
+## Dashboard Screenshot
+
+![Product Performance Overview](Week-4-Data-Visualization/Product Performance image.png)
+
+### Key Findings
+1. Chairs ($196K) and Printers ($196K) lead in revenue; Phones earned the lowest ($152K).   
+2. Chairs led total volume with 562 units sold. 
+3. Order value is not driven by volume alone, as Tablets generated $187K from 480 units, outperforming Desks ($167K from 508 units) by $20K despite lower sales volume.
+
+## Dashboard 3: Order & Payment Performance Overview
+
+This dashboard evaluates customer checkout preferences, payment basket sizes, and referral traffic channels.
+
+## Dashboard Screenshot
+
+![Order & Payment Performance Overview](Week-4-Data-Visualization/Order & Payment Performance image.png)
+
+### Key Findings
+• Online payments were the most preferred payment method with 258 total orders. 
+• Credit Card transactions yielded the highest Average Order Value at $1,128, outperforming Debit Cards ($1,002) by over 12%.
+• Referral acquisition traffic was evenly distributed across channels (~19% to 20% each), with Instagram driving the highest total order value.
+
+
+
+## Repository Structure
+
+DecodeLabs-Internship-Isaac-Mary-Ayooluwa-cmyk/
+│
+├── 📁 Week-1-Data-Cleaning/
+│   ├── Project Report 1.pdf
+│   ├── Task-1-Isaac Mary Ayooluwa.xlsx
+│   ├── cleaned_data.png.png
+│   ├── messy_data.png.png
+│   └── power_query_steps.png.png
+│
+├── 📁 Week-2-Exploratory-Data-Analysis/
+│   ├── Project 2 Report.docx
+│   ├── Task-2-Isaac Mary Ayooluwa.xlsx
+│   ├── descriptive_analysis.png.png
+│   ├── outlier_analysis.png.png
+│   └── pivot_tables.png.png
+│
+├── 📁 Week-3-SQL/
+│   ├── Filtering_records.png.png
+│   ├── Group_by_clause.png.png
+│   ├── Having_clause.png.png
+│   ├── Order_clause.png.png
+│   ├── Project 3 Report.pdf
+│   ├── Task-3-Isaac Mary Ayooluwa.sql
+│   └── Top_10_table.png.png
+│
+├── 📁 Week-4-Data-Visualization/
+│   ├── Order & Payment Performance Image.png
+│   ├── Product Performance Image.png
+│   ├── Sales Performance Image.png
+│   ├── PROJECT 4 REPORT.docx
+│   └── Task-4-Isaac Mary Ayooluwa.pbix
+│
+└── 📄 README.md
+
+
+## Skills Demonstrated
+•	Data Cleaning
+•	Data Preparation
+•	Data Transformation
+•	Exploratory Data Analysis
+•	Descriptive Statistics
+•	Pivot Table Analysis
+•	Quartile Calculations
+•	Problem Solving
+•	SQL Query Writing
+•	Data Extraction
+•	Data Filtering
+•	Data Aggregation
+•	Business Data Analysis
+•	Database Management
+•	Reporting and Insights Generation
+•	Power BI Dashboard Development
+•	DAX Calculations
+•	Data Visualization
+•	KPI Design
+•	Business Intelligence Reporting
+•	Trend Analysis
+•	Retail Sales Analytics
+•	Data Storytelling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
