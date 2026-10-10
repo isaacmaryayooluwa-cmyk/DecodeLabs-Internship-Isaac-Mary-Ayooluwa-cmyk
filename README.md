@@ -391,7 +391,7 @@ DecodeLabs-Internship-Isaac-Mary-Ayooluwa-cmyk/
 
 I successfully completed my internship with **DecodeLabs**, where I applied my data analytics skills through practical projects involving data cleaning, exploratory data analysis, SQL, and data visualization using Power BI.
 
-![Decodelabs Internship Certificate](Certificate_of_Completion/Certificate.png)
+![Decode Labs Internship Certificate](Certificate_of_Completion.png)
 
 
 ## ✍️ Author's Note
